@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Yii::app()->user->setFlash('${1:success}', '${2:content}')
+]]></content>
+    <tabTrigger>sfl</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

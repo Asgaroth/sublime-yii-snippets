@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+   \$form=\$this->beginWidget('foundation.widgets.FounActiveForm', array(
+    'id'=>'${1:form}',
+    ));
+]]></content>
+    <tabTrigger>fform</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
