@@ -10,7 +10,7 @@ If you have the [Package Control][package_control] package installed, you can in
 
 If you haven't got Package Control installed you will need to make a clone of this repository into your packages folder, like so:
 
-    git clone https://github.com/dexnode/sublime-yii-snippets.git yii-snippets
+    git clone https://github.com/Asgaroth/sublime-yii-snippets.git yii-snippets
 
 
 [sublime]: http://www.sublimetext.com/
